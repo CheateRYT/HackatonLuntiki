@@ -1,0 +1,62 @@
+# This is a Git ignore file for Unity projects
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+*.sublime-workspace
+*.sublime-project
+*.userprefs
+
+# Visual Studio files
+*.csproj
+*.sln
+*.suo
+*.user
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Rider files
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Mm]emoryCaptures/
+[Pp]rojectSettings/EditorBuildSettings.asset
+[Pp]rojectSettings/EditorSettings.asset
+[Pp]rojectSettings/GraphicsSettings.asset
+[Pp]rojectSettings/InputManager.asset
+[Pp]rojectSettings/ProjectSettings.asset
+[Pp]rojectSettings/TagManager.asset
+[Pp]rojectSettings/TimeManager.asset
+[Pp]rojectSettings/UnityConnectSettings.asset
+[Pp]rojectSettings/QualitySettings.asset
+[Pp]rojectSettings/Physics2DSettings.asset
+[Pp]rojectSettings/PhysicsSettings.asset
+[Pp]rojectSettings/AudioManager.asset
+[Pp]rojectSettings/ClusterInputManager.asset
+[Pp]rojectSettings/ProjectVersion.txt
+
+# Asset Store files
+[Aa]ssets/AssetStoreTools*
+
+# Other
+*.tmp
+*.bak
+*.swp
+*.swm
+*.swo
+*.swn
+*.sws
+*.swn
